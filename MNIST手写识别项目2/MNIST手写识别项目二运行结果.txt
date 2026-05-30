@@ -1,0 +1,6 @@
+Epoch 1, Loss: 0.1253
+Epoch 2, Loss: 0.0406
+Epoch 3, Loss: 0.0279
+Epoch 4, Loss: 0.0206
+Epoch 5, Loss: 0.0170
+CNN Test Accuracy: 99.12%

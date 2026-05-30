@@ -1,0 +1,25 @@
+Epoch 1, Batch 300, Loss: 0.536
+Epoch 1, Batch 600, Loss: 0.205
+Epoch 1, Batch 900, Loss: 0.152
+Epoch 2, Batch 300, Loss: 0.112
+Epoch 2, Batch 600, Loss: 0.094
+Epoch 2, Batch 900, Loss: 0.091
+Epoch 3, Batch 300, Loss: 0.068
+Epoch 3, Batch 600, Loss: 0.065
+Epoch 3, Batch 900, Loss: 0.060
+Epoch 4, Batch 300, Loss: 0.041
+Epoch 4, Batch 600, Loss: 0.042
+Epoch 4, Batch 900, Loss: 0.049
+Epoch 5, Batch 300, Loss: 0.029
+Epoch 5, Batch 600, Loss: 0.035
+Epoch 5, Batch 900, Loss: 0.028
+Epoch 6, Batch 300, Loss: 0.019
+Epoch 6, Batch 600, Loss: 0.023
+Epoch 6, Batch 900, Loss: 0.020
+Epoch 7, Batch 300, Loss: 0.015
+Epoch 7, Batch 600, Loss: 0.013
+Epoch 7, Batch 900, Loss: 0.015
+Epoch 8, Batch 300, Loss: 0.010
+Epoch 8, Batch 600, Loss: 0.009
+Epoch 8, Batch 900, Loss: 0.012
+Test Accuracy: 98.08%

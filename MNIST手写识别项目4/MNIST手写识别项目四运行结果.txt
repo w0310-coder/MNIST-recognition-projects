@@ -1,0 +1,18 @@
+Epoch 1, Loss: 0.2642, Test Acc: 94.92%, LR: 0.10000
+Epoch 2, Loss: 0.1051, Test Acc: 97.11%, LR: 0.10000
+Epoch 3, Loss: 0.0469, Test Acc: 97.68%, LR: 0.05000
+Epoch 4, Loss: 0.0281, Test Acc: 98.04%, LR: 0.05000
+Epoch 5, Loss: 0.0134, Test Acc: 98.21%, LR: 0.02500
+Epoch 6, Loss: 0.0087, Test Acc: 98.07%, LR: 0.02500
+Epoch 7, Loss: 0.0055, Test Acc: 98.27%, LR: 0.01250
+Epoch 8, Loss: 0.0046, Test Acc: 98.26%, LR: 0.01250
+
+对比实验：固定学习率0.1训练
+Epoch 1, Fixed LR Test Acc: 95.69%
+Epoch 2, Fixed LR Test Acc: 96.75%
+Epoch 3, Fixed LR Test Acc: 97.36%
+Epoch 4, Fixed LR Test Acc: 97.31%
+Epoch 5, Fixed LR Test Acc: 97.37%
+Epoch 6, Fixed LR Test Acc: 97.29%
+Epoch 7, Fixed LR Test Acc: 97.75%
+Epoch 8, Fixed LR Test Acc: 97.84%
